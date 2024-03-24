@@ -6,10 +6,10 @@
     overflow: hidden;
     display: flex;
     justify-content: left;
-    position: fixed;
+    position: relative;
     top: 0;
     width: 100%;
-    z-index: 1000;
+   
 }
 
 .nolink {
